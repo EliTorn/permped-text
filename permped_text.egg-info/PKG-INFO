@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: permped-text
+Version: 0.1.0
+Summary: A package for text processing.
+Home-page: https://github.com/EliTorn/permped-text
+Author: Eli Torn
+Author-email: your_email@example.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # permped-text
 
 **A Python library for preprocessing text before sending it to LLMs.**  
